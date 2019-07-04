@@ -2,9 +2,9 @@
 
 **Content**
 ================
-[About](#About)
-[Team Members](#Team-Members)
-[About the Project](#About-the-Project]
+* [About](#About)
+* [Team Members](#Team-Members)
+* [About the Project](#About-the-Project]
 
 **About**
 
