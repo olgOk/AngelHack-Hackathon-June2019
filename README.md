@@ -24,10 +24,21 @@ And while we’ve seen lots of changes since the early Hackathon days, one thing
 =====================
 
 Our team consisted of four student from [42 Silicon Valley][2] with different background and experience level.
-* [Zhenya Mamenko][3]
-* [Kirill Naumov][4]
-* [Alex Kikalia][5]
-* [Olga Okrut][6]
+
+* [Zhenya Mamenko][3]: Software Developer with more then 20 years of experience in Tech Industry
+* [Kirill Naumov][4]: Young talent with excellent analytical abilities
+* [Alex Kikalia][5]: Software Developer, an experienced Hackathon participant
+* [Olga Okrut][6]: Software Developer, coding up her way in Tech Industry 
+
+**About the Project**
+===========================
+
+Our main stack of technology we used were [AWS Rekognition][7] and Python programming language.
+
+Our team  decided to tackle a problem of [powerleveling in game industry][8]. The team created an API integrating AWS Rekognition service, it allows game companies to validate gamers identity using a webcam and a database record. It works exactly like face ID: before a gamer can start playing his favourite video game he has to take a short video of his face. The vidoe will be compared to the photo image stored in the database. If it matches the gamer identity is verified, and he can access his acoount. If a gamer trying to avoid playing any levels of the game and usues powerleveling services, basically, he will not be able access his account, verification of the identity will fail.
+
+In short 24 hours we managed to create a demo product, website and a bussiness model, and with more time and funding we are certain we can achive magnifiscent results.
+
 
 [1]: https://www.hackathon.io/events
 [2]: https://www.42.us.org
@@ -35,4 +46,6 @@ Our team consisted of four student from [42 Silicon Valley][2] with different ba
 [4]: https://github.com/KirillVNaumov
 [5]: https://github.com/akikalia
 [6]: https://github.com/olgOk
+[7]: https://aws.amazon.com/rekognition/
+[8]: https://wowwiki.fandom.com/wiki/Power_leveling
 
