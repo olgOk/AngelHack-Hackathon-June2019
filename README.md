@@ -6,7 +6,7 @@
 [Team Members](#Team-Members)
 [About the Project](#About-the-Project]
 
-** About **
+**About**
 
 Global Hackathon Series 2019
 
@@ -18,7 +18,7 @@ And while we’ve seen lots of changes since the early Hackathon days, one thing
 
 [Officiale event site][1]
 
-** Team Members **
+**Team Members**
 
 Our team consisted of four student from [42 Silicon Valley][2] with different background and experience level.
 
