@@ -7,7 +7,8 @@
 * [About the Project](#About-the-Project)
 
 
-***About***
+**About**
+==============
 
 Global Hackathon Series 2019
 
@@ -20,17 +21,18 @@ And while we’ve seen lots of changes since the early Hackathon days, one thing
 [Officiale event site][1]
 
 **Team Members**
+=====================
 
 Our team consisted of four student from [42 Silicon Valley][2] with different background and experience level.
-* [][3]
-* [][4]
+* [Zhenya Mamenko][3]
+* [Kirill Naumov][4]
 * [Alex Kikalia][5]
-* [][6]
+* [Olga Okrut][6]
 
 [1]: https://www.hackathon.io/events
 [2]: https://www.42.us.org
-[3]:
-[4]:
+[3]: https://github.com/zhenya-mamenko
+[4]: https://github.com/KirillVNaumov
 [5]: https://github.com/akikalia
-[6]:
+[6]: https://github.com/olgOk
 
