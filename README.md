@@ -1,4 +1,4 @@
-# AngelHack Hackathon June 29th-30th 2019, Silicon Vallay
+# AngelHack Hackathon June 29th-30th 2019, Silicon Valley
 
 **Content**
 ================
