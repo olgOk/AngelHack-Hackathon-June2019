@@ -26,7 +26,7 @@ And while we’ve seen lots of changes since the early Hackathon days, one thing
 Our team consisted of four student from [42 Silicon Valley][2] with different background and experience level.
 
 * [Zhenya Mamenko][3]: Software Developer with more then 20 years of experience in Tech Industry
-* [Kirill Naumov][4]: Young talent with excellent analytical abilities
+* [Kirill Naumov][4]: Software Developer, young talent with excellent analytical abilities
 * [Alex Kikalia][5]: Software Developer, an experienced Hackathon participant
 * [Olga Okrut][6]: Software Developer, coding up her way in Tech Industry 
 
