@@ -2,12 +2,12 @@
 
 **Content**
 ================
-* [About](#About)
+* [About Hackathon](#About-Hackathon)
 * [Team Members](#Team-Members)
 * [About the Project](#About-the-Project)
 
 
-**About**
+**About-Hackathon**
 ==============
 
 Global Hackathon Series 2019
