@@ -4,7 +4,8 @@
 ================
 * [About](#About)
 * [Team Members](#Team-Members)
-* [About the Project](#About-the-Project]
+* [About the Project](#About-the-Project)
+
 
 **About**
 
@@ -21,6 +22,15 @@ And while we’ve seen lots of changes since the early Hackathon days, one thing
 **Team Members**
 
 Our team consisted of four student from [42 Silicon Valley][2] with different background and experience level.
+* [][3]
+* [][4]
+* [Alex Kikalia][5]
+* [][6]
 
 [1]: https://www.hackathon.io/events
 [2]: https://www.42.us.org
+[3]:
+[4]:
+[5]: https://github.com/akikalia
+[6]:
+
