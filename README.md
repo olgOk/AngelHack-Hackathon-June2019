@@ -7,7 +7,7 @@
 * [About the Project](#About-the-Project)
 
 
-**About-Hackathon**
+**About Hackathon**
 ==============
 
 Global Hackathon Series 2019
