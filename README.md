@@ -37,7 +37,9 @@ Our main stack of technology we used were [AWS Rekognition][7] and Python progra
 
 Our team  decided to tackle a problem of [powerleveling in game industry][8]. The team created an API integrating AWS Rekognition service. It allows game companies to validate gamers identity using a webcam and a database record. It works exactly like face ID: before a gamer can start playing his favourite video game he has to take a short video of his face. The vidoe will be compared to the photo image stored in the database. If it matches the gamer identity is verified, and he can access his acoount. If a gamer trying to avoid playing any levels of the game and usues powerleveling services, basically, he will not be able access his account, verification of the identity will fail.
 
-In short 24 hours we managed to create a demo product, website and a bussiness model. With more time and funding we are certain we can achive magnifiscent results.
+In short 24 hours we managed to create a demo product, website and a bussiness model. With more time and funding we are certain we can achive magnificent results.
+![product_page1](/img/about.png)
+![product_page_2](/img/features.png)
 
 
 [1]: https://www.hackathon.io/events
